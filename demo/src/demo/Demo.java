@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Demo {
 //FREDERIK ALEXIS SALCIDO ROMERO
-
+//PRACTICA
     public static void main(String[] args) {
    try
 {
